@@ -1,0 +1,8 @@
+# Get the map as a nav_msgs/OccupancyGrid
+# addedy by Skywalker
+int32 submap_index
+bool write_map
+int8 th_occupied_
+int8 th_free_
+---
+nav_msgs/OccupancyGrid map
